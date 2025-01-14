@@ -38,7 +38,7 @@ const skills = {
 <div align="center">
   
 [![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Nopallse&show_icons=true&theme=tokyonight&hide_border=true)](https://github.com/Nopallse)
-[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Nopallse&layout=compact&theme=tokyonight&hide_border=true)](https://github.com/Nopallse)
+
 
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=Nopallse&theme=tokyonight&hide_border=true)](https://git.io/streak-stats)
 
