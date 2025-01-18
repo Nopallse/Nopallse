@@ -50,7 +50,7 @@ const skills = {
 
 <div align="center">
   
-[![Wakatime Stats](https://wakatime.com/badge/user/yourid.svg)](https://wakatime.com/@yourid)
+[![Wakatime Stats](https://wakatime.com/badge/user/yourid.svg)](https://wakatime.com//@af868044-309d-4173-be4a-f61ff86f932e)
 [![Profile Views](https://komarev.com/ghpvc/?username=Nopallse&color=blue&style=flat-square)](https://github.com/Nopallse)
 
 [![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=Nopallse&theme=tokyo-night&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
