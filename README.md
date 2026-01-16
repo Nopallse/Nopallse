@@ -33,36 +33,13 @@ const skills = {
 
 </div>
 
-### 📊 Performance Metrics
-
-<div align="center">
-  
-[![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Nopallse&show_icons=true&theme=tokyonight&hide_border=true)](https://github.com/Nopallse)
-[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Nopallse&layout=compact&theme=tokyonight&hide_border=true)](https://github.com/Nopallse)
-
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=Nopallse&theme=tokyonight&hide_border=true)](https://git.io/streak-stats)
-
-[![Trophy](https://github-profile-trophy.vercel.app/?username=Nopallse&theme=tokyonight&column=4&no-frame=true)](https://github.com/ryo-ma/github-profile-trophy)
-
-</div>
-
-### 📈 Coding Activity
-
-<div align="center">
-  
-[![Wakatime Stats](https://wakatime.com/badge/user/yourid.svg)](https://wakatime.com//@af868044-309d-4173-be4a-f61ff86f932e)
-[![Profile Views](https://komarev.com/ghpvc/?username=Nopallse&color=blue&style=flat-square)](https://github.com/Nopallse)
-
-[![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=Nopallse&theme=tokyo-night&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
-
-</div>
 
 ### 🤝 Let's Connect
 
 <div align="center">
   
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/Naaufaal)
-[![Portfolio](https://img.shields.io/badge/Portfolio-FF4088?style=for-the-badge&logo=google-chrome&logoColor=white)](https://yourportfolio.dev)
+[![Portfolio](https://img.shields.io/badge/Portfolio-FF4088?style=for-the-badge&logo=google-chrome&logoColor=white)](https://nopallse.tech)
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:noppal.901@gmail.com)
 
 </div>
